@@ -23,6 +23,11 @@ fields:
   config:
     required: false
   label: permalink
+- name: '1'
+  type: image_gallery
+  config: {}
+  description: '1'
+  label: '1'
 pages:
 - docs/configuration/configuration.md
 - docs/navigation-structure.md
